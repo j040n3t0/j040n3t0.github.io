@@ -5,4 +5,4 @@ Oi!! Eu sou o Gok.. não não.. Sou o **João Neto**! Vulgo... João Neto mesmo.
 \o/
 
 
-![Branching](http://cofarming.info/wp-content/uploads/2017/01/Linkedin-logo-1-550x550-300x300.png)
+![Octocat](https://github.com/j040n3t0/j040n3t0.github.io/blob/master/assets/images/linkedin.png)
