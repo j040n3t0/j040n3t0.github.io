@@ -4,7 +4,7 @@ Oi!! Eu sou o Gok.. não não.. Sou o **João Neto**! Vulgo... João Neto mesmo.
 
 \o/
 
-### Qualificações
+### #AboutMe
 
 1. Graduado em Segurança da Informação
 1. Pós-graduado em Redes de Computadores e Segurança de Sistemas
@@ -15,7 +15,7 @@ Oi!! Eu sou o Gok.. não não.. Sou o **João Neto**! Vulgo... João Neto mesmo.
 1. ~~Linux~~ Debian é o melhor Sistema Operacional!(**#semMimimi**)
 1. ~~JAVA~~ Python é a melhor linguagem!
 
-### See my contacts
+### #./GetContacts.sh
 
 <dl>
 <dt>Skype</dt>
