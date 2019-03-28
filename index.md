@@ -12,6 +12,6 @@ Oi!! Eu sou o Gok.. não não.. Sou o **João Neto**! Vulgo... João Neto mesmo.
 <dt>Telegram</dt>
 <dd>@j040n3t0</dd>
 <dt>LinkedIn</dt>
-<dd>https://www.linkedin.com/in/joão-neto/</dd>
+<dd>[Isso é um link](https://www.linkedin.com/in/joão-neto)</dd>
 </dl>
 
