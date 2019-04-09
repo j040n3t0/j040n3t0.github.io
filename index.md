@@ -18,6 +18,8 @@ Oi!! Eu sou o Gok.. não não.. Sou o **João Neto**! Vulgo... João Neto mesmo.
 ### #./GetContacts.sh
 
 <dl>
+<dt>E-mail</dt>
+<dd>joaojose.ti@gmail.com</dd>
 <dt>Skype</dt>
 <dd>joaoneto.ti</dd>
 <dt>Telegram</dt>
